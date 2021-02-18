@@ -32,7 +32,7 @@
 
 :heart_eyes:
 
-
+```java
 
 public class Main {
 
